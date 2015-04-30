@@ -1,0 +1,16 @@
+.line { border-bottom: 1px dashed #ddd; margin-bottom: 15px; }
+
+pre {
+  text-align: left !important;
+  padding : 5px !important;
+}
+
+.pln:first-child {
+  padding : 0 !important;
+  margin: 0!important;
+  text-align: left; 
+}
+
+.logo {
+  float: left;
+}
